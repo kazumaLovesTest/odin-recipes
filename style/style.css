@@ -2,13 +2,11 @@
     background-color: #a6826a;
 }
 .title {
-    color:rgb(51, 47, 47);
+    color: rgb(112, 48, 48);color: rgb(112, 48, 48);
     font-family:Arial, Helvetica, sans-serif ;
 }
-.description{
-    color: rgb(112, 48, 48);
+
+.title.content{
+    color:rgb(114, 50, 50);
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.description.paragraph{
-    color:rgb(114, 50, 50)
 }
